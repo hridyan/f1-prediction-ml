@@ -1,0 +1,5 @@
+{
+    // Notebook output: don't wrap long lines, scroll instead
+    "notebook.output.wordWrap": false,
+    "notebook.output.scrolling": true
+}
